@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PreferenciasCompartidas</string>
+    <string name="memory">Memoria</string>
+    <string name="mi">Memoria interna</string>
+    <string name="me">Memoria externa</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="save">Guardar</string>
+    <string name="read">Leer</string>
+    <string name="permissionContact">Permisos concedidos</string>
+    <string name="noMemory">No hay ninguna memoria seleccionada</string>
+    <string name="memoryOk">Copia de seguridad realizada con éxito</string>
+    <string name="chageMemory">Solo se puede leer el alrchivo de una memoria, hay seleccionada dos memorias</string>
+</resources>
